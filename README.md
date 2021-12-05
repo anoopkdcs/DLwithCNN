@@ -1,2 +1,3 @@
-# Deep Learning with  Convolutional Neural Networks 
+# Deep Learning with Convolutional Neural Networks 
 
+This repository is meant to provide foundations for Deep learning and contains the sample programs to understand the working of Deep neural networks by implementing ...
