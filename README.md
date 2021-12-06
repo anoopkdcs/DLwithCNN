@@ -9,5 +9,5 @@ This repository is meant to provide foundations for Deep Learning with Convoluti
 5. Kim's CNN for Sentiment Analysis : [kimsModel.ipynb](kimsModel.ipynb)
 
 ## Instructions to use the repository
-Can clone this repository and use the repository straight forward.
+All the programs are executed in [Google Colab](https://colab.research.google.com/). You can clone and use this repository straight forward. 
 
